@@ -1,0 +1,5 @@
+= Automator
+
+Automate any order of commands with interactive prompt asking confirmation before taking next steps.
+Script reads commands from filename.steps and executes them in shell
+Automator will also print out specially marked text in filename.steps

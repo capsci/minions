@@ -1,0 +1,10 @@
+# This is my automation script
+## This comment will be printed on screen
+# This command will be executed
+pwd
+
+#> Prompt will appear after this comment
+touch a
+
+## Prompt will automatcally come after this
+prompt
